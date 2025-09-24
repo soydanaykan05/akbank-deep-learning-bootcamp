@@ -39,3 +39,9 @@ Model: "DefectVision_CNN"
 ├── Flatten()
 ├── Dense(128) + Dropout(0.5)
 └── Dense(6, activation='softmax')
+
+##  Veri Seti
+Dataset: NEU Metal Surface Defects Data
+Total Images: 1,800
+Classes: 6
+Image Size: 200x200 pixels
