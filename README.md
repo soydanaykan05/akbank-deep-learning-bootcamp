@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Proje Özeti
-Akbank Derin Öğrenme Bootcamp kapsamında geliştirilen bu proje, CNN mimarisi kullanarak metal yüzey defektlerini **%94.63 doğruluk** oranıyla sınıflandırmaktadır.
+Akbank Derin Öğrenme Bootcamp kapsamında geliştirilen bu proje, CNN mimarisi kullanarak endüstrideki metallerin yüzeylerin oluşan hataları **%94.63 doğruluk** oranıyla sınıflandırmaktadır.
 
 ## 🎯 Proje Amacı
 - 🏭 Endüstriyel kalite kontrol için otomatik defekt tespiti
