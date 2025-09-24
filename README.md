@@ -1,17 +1,17 @@
-# 🏭 DefectVision: NEU Metal Yüzey Hataları Sınıflandırıcı
+# DefectVision: NEU Metal Yüzey Hataları Sınıflandırıcı
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-94.63%25-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📋 Proje Özeti
+## Proje Özeti
 Akbank Derin Öğrenme Bootcamp kapsamında geliştirilen bu proje, CNN mimarisi kullanarak endüstrideki metallerin yüzeylerinde oluşan hataları **%94.63 doğruluk** oranıyla sınıflandırmaktadır.
 
-## 🎯 Proje Amacı
-- 🏭 Endüstriyel kalite kontrol için otomatik hata tespiti
-- 🤖 Derin öğrenme modellerinin endüstriyel uygulamaları
-- 📊 CNN mimarilerinin performans değerlendirmesi
+## Proje Amacı
+-  Endüstriyel kalite kontrol için otomatik hata tespiti
+-  Derin öğrenme modellerinin endüstriyel uygulamaları
+-  CNN mimarilerinin performans değerlendirmesi
 
 ## 📈 Sonuçlar
 | Metric | Value |
@@ -31,7 +31,7 @@ Akbank Derin Öğrenme Bootcamp kapsamında geliştirilen bu proje, CNN mimarisi
 | Rolled | 100.0% | 90 |
 | Scratches | 100.0% | 90 |
 
-## 🏗️ Model Mimarisi
+##  Model Mimarisi
 ```python
 Model: "DefectVision_CNN"
 ├── Conv2D(32, (3,3)) + BatchNormalization + Dropout(0.3)
