@@ -1,4 +1,4 @@
-# 🏭 DefectVision: NEU Metal Surface Defect Classification
+# 🏭 DefectVision: NEU Metal Yüzey Hataları Sınıflandırıcı
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)
@@ -9,7 +9,7 @@
 Akbank Derin Öğrenme Bootcamp kapsamında geliştirilen bu proje, CNN mimarisi kullanarak endüstrideki metallerin yüzeylerinde oluşan hataları **%94.63 doğruluk** oranıyla sınıflandırmaktadır.
 
 ## 🎯 Proje Amacı
-- 🏭 Endüstriyel kalite kontrol için otomatik defekt tespiti
+- 🏭 Endüstriyel kalite kontrol için otomatik hata tespiti
 - 🤖 Derin öğrenme modellerinin endüstriyel uygulamaları
 - 📊 CNN mimarilerinin performans değerlendirmesi
 
