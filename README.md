@@ -46,4 +46,7 @@ Total Images: 1,800
 Classes: 6
 Image Size: 200x200 pixels
 
+```
+
 https://www.kaggle.com/code/aykansoydan/d3fectvision
+
