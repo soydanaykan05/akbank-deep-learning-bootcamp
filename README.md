@@ -49,4 +49,4 @@ Image Size: 200x200 pixels
 ```
 
 https://www.kaggle.com/code/aykansoydan/d3fectvision
-
+https://www.kaggle.com/code/yamuryavuz77/ai-powered-industrial-quality-control
